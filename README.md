@@ -20,4 +20,4 @@ Feel free to reach out on my social media!
 [![Gmail](F:\DOWNLOADS\6f9bc3432d030c4d42d32b30898c7f1f.png)](mailto:sunjidanourinshathi89@gmail.com)
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunjidaShathi&show_icons=true&theme=radical)
