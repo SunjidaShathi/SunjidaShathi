@@ -3,7 +3,7 @@
 ![Banner Image](F:\DOWNLOADS\1710062713557.jpg)
 
 ## About Me
-I am passionate about **quality assurance** and strive to transform chaos into clarity by identifying bugs and enhancing software performance. My mission is to ensure that every user enjoys a **seamless and reliable experience**!
+Obsessed with quality, I transform chaos into clarity by finding bugs and enhancing software performance. My mission? To ensure every user enjoys a seamless and reliable experience!
 
 ## Tech Stack
 ![Tech Stack](https://yourimageurl.com/techstack.png)
@@ -16,7 +16,7 @@ I am passionate about **quality assurance** and strive to transform chaos into c
 Feel free to reach out on my social media!
 
 [![LinkedIn](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)](https://www.linkedin.com/in/sunjidanourinshathi/)
-[![Gmail](https://banner2.cleanpng.com/20180320/tpq/av0o73fss.webp)](mailto:sunjidanourinshathi89@gmail.com)
+[<img src="https://banner2.cleanpng.com/20180320/tpq/av0o73fss.webp" width="30" height="30" alt="Gmail">](mailto:sunjidanourinshathi89%40gmail.com)
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunjidaShathi&show_icons=true&theme=radical)
