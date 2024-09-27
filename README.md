@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm [Sunjida Nourin Shathi] 👋
 
-<!--
-**SunjidaShathi/SunjidaShathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](F:\DOWNLOADS\1710062713557.jpg)
 
-Here are some ideas to get you started:
+## About Me
+Obsessed with quality, I transform chaos into clarity by finding bugs and enhancing software performance. My mission? To ensure every user enjoys a seamless and reliable experience!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Tech Stack](https://yourimageurl.com/techstack.png)
+
+- **Languages**: Java, JavaScript
+- **Testing Framework**: Selenium
+- **Tools**: Jira, Postman, Insomnia, SoapUI
+
+
+## Connect with Me
+Feel free to reach out on my social media!
+
+[![LinkedIn](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)](https://www.linkedin.com/in/sunjidanourinshathi/)
+[![Gmail](F:\DOWNLOADS\6f9bc3432d030c4d42d32b30898c7f1f.png)](mailto:sunjidanourinshathi89@gmail.com)
+
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
