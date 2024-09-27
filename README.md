@@ -15,10 +15,9 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40">
   </a>
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunjidaShathi&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-</div>
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaShathi&layout=compact&theme=radical)
+
 
 
 <div align="center">
