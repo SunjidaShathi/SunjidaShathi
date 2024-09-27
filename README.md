@@ -51,5 +51,5 @@ I transform chaos into clarity by uncovering bugs and enhancing software perform
 
 <div align="center">
   <h2>Thanks for Stopping By!</h2>
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" alt="Thanks Gif" width="200">
+  <img src="https://media.giphy.com/media/LmmNZW2zKlJnAO5HuH/giphy.gif?cid=790b7611jsjouwvfh9rq1q1slpasgdka169dk0sadnwp9smw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Thanks Gif" width="200">
 </div>
