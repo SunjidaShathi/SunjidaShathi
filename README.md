@@ -3,7 +3,7 @@
 ![Banner Image](F:\DOWNLOADS\1710062713557.jpg)
 
 ## About Me
-Obsessed with quality, I transform chaos into clarity by finding bugs and enhancing software performance. My mission? To ensure every user enjoys a seamless and reliable experience!
+I am passionate about **quality assurance** and strive to transform chaos into clarity by identifying bugs and enhancing software performance. My mission is to ensure that every user enjoys a **seamless and reliable experience**!
 
 ## Tech Stack
 ![Tech Stack](https://yourimageurl.com/techstack.png)
@@ -11,7 +11,6 @@ Obsessed with quality, I transform chaos into clarity by finding bugs and enhanc
 - **Languages**: Java, JavaScript
 - **Testing Framework**: Selenium
 - **Tools**: Jira, Postman, Insomnia, SoapUI
-
 
 ## Connect with Me
 Feel free to reach out on my social media!
