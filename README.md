@@ -1,4 +1,4 @@
-# Hello, I'm [Sunjida Nourin Shathi] 👋
+# Hello, I'm Sunjida Nourin Shathi 👋
 
 ![Banner Image](F:\DOWNLOADS\1710062713557.jpg)
 
