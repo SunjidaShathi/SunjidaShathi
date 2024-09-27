@@ -1,7 +1,7 @@
 # Hello, I'm Sunjida Nourin Shathi 👋
 
 <!-- Banner Image -->
-<img src="https://via.placeholder.com/1200x400.png?text=Banner+Image" alt="Banner Image" width="100%">
+<img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDI1fHxkZXNrfGVufDB8fHx8MTY5NjE4ODczOQ&ixlib=rb-4.0.3&q=80&w=1080" alt="Banner Image" width="100%">
 
 ## About Me
 🌟 **Obsessed with Quality:**  
@@ -9,7 +9,7 @@ I transform chaos into clarity by uncovering bugs and enhancing software perform
 
 ## Tech Stack
 <div align="center">
-  <img src="https://via.placeholder.com/700x200.png?text=Tech+Stack" alt="Tech Stack" width="700">
+  <img src="https://i.imgur.com/dP7bfOt.png" alt="Tech Stack" width="600">
 </div>
 
 - 🖥️ **Languages**: Java, JavaScript
@@ -19,7 +19,7 @@ I transform chaos into clarity by uncovering bugs and enhancing software perform
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Professional+Background" alt="Professional Background" width="100%">
+  <img src="https://images.unsplash.com/photo-1565372914562-1b38ac03f3d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDR8fHxibGFja2JvYXJkfGVufDB8fHx8MTY5NjE4ODczOQ&ixlib=rb-4.0.3&q=80&w=1080" alt="Professional Background" width="100%">
 </div>
 
 ---
@@ -44,12 +44,12 @@ I transform chaos into clarity by uncovering bugs and enhancing software perform
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x100.png?text=Decorative+Line" alt="Decorative Line" width="100%">
+  <img src="https://i.imgur.com/yICQnKN.png" alt="Decorative Line" width="100%">
 </div>
 
 ---
 
 <div align="center">
   <h2>Thanks for Stopping By!</h2>
-  <img src="https://via.placeholder.com/200x200.png?text=Thanks" alt="Thanks Gif" width="200">
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" alt="Thanks Gif" width="200">
 </div>
