@@ -1,7 +1,7 @@
 # Hello, I'm Sunjida Nourin Shathi!
 
 ## About Me
-**Obsessed with Quality** I transform chaos into clarity by uncovering bugs and enhancing software performance. My mission is to ensure every user enjoys a **seamless and reliable experience**!
+**Obsessed with Quality.** I transform chaos into clarity by uncovering bugs and enhancing software performance. My mission is to ensure every user enjoys a **seamless and reliable experience**!
 
 ## Tech Stack
 
