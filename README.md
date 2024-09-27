@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
-- 🖥️ **Languages**: Java, JavaScript
+- 🖥️ **Languages**: HTML, PHP, Java, JavaScript
 - 🧪 **Testing Framework**: Selenium
 - 🛠️ **Tools**: Jira, Postman, Insomnia, SoapUI
 
