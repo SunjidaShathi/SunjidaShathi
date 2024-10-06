@@ -14,11 +14,7 @@
   <a href="https://www.linkedin.com/in/sunjidanourinshathi/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40">
   </a>
-  <a href="https://bento.me/sunjida">
-    <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Bento Profile" width="40">
-  </a>
-
-## Most Used Languages
+  ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaShathi&layout=compact&theme=radical)
 
 
