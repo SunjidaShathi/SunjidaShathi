@@ -16,10 +16,6 @@
   </a>
 </div>
 
-## Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunjidaShathi&color=blue" alt="Profile Views">
-</div>
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaShathi&layout=compact&theme=radical)
