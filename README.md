@@ -1,12 +1,11 @@
-# 🦸‍♀️ Hello, I'm **Sunjida Nourin Shathi** — Your QA Hero in Disguise!
+# Hello, I'm **Sunjida Nourin Shathi**
 
-> *"Saving users from bugs, one test case at a time."*
+> *Saving users from bugs*
 
 ---
 
 ## 🧬 About Me  
-I’m not just a tester — I’m a **defender of user experience**. Armed with a bug-catching eye and a passion for perfection, I dive deep into systems to find what others miss. My mission?  
-To make every product feel **smooth, intuitive, and flawless**.
+**Obsessed with Quality.** I transform chaos into clarity by uncovering bugs and enhancing software performance. My mission is to ensure every user enjoys a **seamless and reliable experience**!
 
 🕵️‍♀️ I **investigate**  
 🛠️ I **break things (intentionally)**  
@@ -17,9 +16,9 @@ To make every product feel **smooth, intuitive, and flawless**.
 
 ## ⚙️ My Tech Arsenal  
 
-- 💻 **Languages**: HTML, PHP, Java, JavaScript  
+- 💻 **Languages**: HTML, PHP, Java, JavaScript, C++  
 - 🧪 **Frameworks**: Selenium, Playwright, JMeter  
-- 🔧 **Tools of the Trade**: Jira, Postman, Insomnia, SoapUI  
+- 🔧 **Tools of the Trade**: Jira, Trello, Postman, Insomnia, SoapUI  
 - 💾 **Databases**: MySQL (via XAMPP)  
 - 🔍 **Testing Styles**: Manual | Automation | Compatibility | API  
 
